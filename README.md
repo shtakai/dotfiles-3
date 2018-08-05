@@ -1,5 +1,7 @@
 # Obligatory Dotfile Repo
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/dotfiles-3.svg)](https://www.guardrails.io)
+
 Nothing super crazy going on here, but some sensable vim and tmux configs.
 
 ## Note to iterm
